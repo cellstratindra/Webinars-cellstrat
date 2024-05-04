@@ -1,0 +1,9 @@
+*.env
+*.cdk
+*.config
+aws_accessKeys.csv
+.vscode/
+__pycache__/
+lambda_layer/python/*
+.DS_Store
+*.csv
